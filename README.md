@@ -2,6 +2,8 @@
 
 rubixe website for assignment
 
+deployed website link : https://rubixe-ajay.netlify.app/
+
 
 here is the website preview 
 
